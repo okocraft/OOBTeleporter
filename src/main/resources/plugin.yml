@@ -1,0 +1,5 @@
+name: OOBTeleporter
+version: '${project.version}'
+main: net.okocraft.oobteleporter.OOBTeleporterPlugin
+api-version: 1.19
+authors: [ Siroshun09 ]
